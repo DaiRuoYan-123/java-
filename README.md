@@ -98,5 +98,5 @@ pc调用show()方法
   
   ## 实验结果
   
-  https://github.com/DaiRuoYan-123/java-/blob/main/f44d2de510b41278e39b9e0fca2977f.png
+  [!li]https://github.com/DaiRuoYan-123/java-/blob/main/f44d2de510b41278e39b9e0fca2977f.png
   
