@@ -98,5 +98,13 @@ pc调用show()方法
   
   ## 实验结果
   
-  [!li]https://github.com/DaiRuoYan-123/java-/blob/main/f44d2de510b41278e39b9e0fca2977f.png
+  ![a](https://github.com/DaiRuoYan-123/java-/blob/main/f44d2de510b41278e39b9e0fca2977f.png)
+  
+  ##实验感想
+  
+  通过实验了解创建一个包和多个类，在类中定义属性变量，构造方法，类和类之间的联系，从而获得想要的值。运用刚学习到的访问权限，对变量进行private，
+  
+  在其他类或保重无法直接访问，进行保护一些重要内容如speed和amount变量进行私有化。并在实验过程中学习熟悉运用关键词this用于当前对象的变量，if方法对变量进行判断。
+  
+  对Java有了更深的了解。
   
